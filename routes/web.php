@@ -1,5 +1,6 @@
 <?php
 
+use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -12,7 +13,12 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
-
-Route::get('/', function () {
-    return view('welcome');
+Route::get('/artisan/{c}',function($c){
+    return Artisan::call($c);
 });
+Route::view('/','contents.website.dashboard');
+Route::view('/pricing','contents.website.pricing');
+Route::view('/services','contents.website.services');
+Route::view('/aboutus','contents.website.aboutus');
+Route::view('/contact','contents.website.contact');
+

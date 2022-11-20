@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html lang="en" >
     @include('components.head')
-    <body>
-    @include('components.contents')
-    <!-- @yield('page-contents') -->
-    @include('components.footer')	
-    </body>
+    @include('components.nav')
+    @yield('page-contents')
+    @include('components.footer')
+    @include('components.scripts')
 </html>
