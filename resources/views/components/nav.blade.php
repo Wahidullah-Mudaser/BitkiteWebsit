@@ -43,7 +43,7 @@
                                 <a href="/" class="nav-link">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a href="/pricing" class="nav-link">Pricing</a>
+                                <a href="/hosting" class="nav-link">Web Hosting</a>
                             </li>
                             <li class="nav-item">
                                 <a href="/services" class="nav-link">Services</a>

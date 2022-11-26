@@ -1,7 +1,7 @@
 
 		<!-- Start Pricing Area -->
-		<section class="pricing-area bg-color pt-100 pb-70">
-			<div class="container">
+		<section class="pricing-area bg-color pt-100 pb-40" >
+			<div class="container" style="width: 800px">
 				<div class="section-title">
 					<span>Security Packages</span>
 					<h2>We Have Different Types Of Pricing Plans</h2>

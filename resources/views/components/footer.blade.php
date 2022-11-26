@@ -42,7 +42,7 @@
                     <ul class="address">
                         <li class="location">
                             <i class="bx bxs-location-plus"></i>
-                            6890 Blvd, The Bronx, NY 1058 New York, USA
+                            Ahmad Shahi Commercial Market, Kandahar Afghanistan
                         </li>
                         <li>
                             <i class="bx bxs-envelope"></i>
@@ -51,8 +51,8 @@
                         </li>
                         <li>
                             <i class="bx bxs-phone-call"></i>
-                            <a href="tel:+1-(514)-312-5678">+1 (514) 312-5678</a>
-                            <a href="tel:+1-(514)-312-6677">+1 (514) 312-6677</a>
+                            <a href="tel:+1-(514)-312-5678">+49 (163) 038-2427</a>
+                            <a href="tel:+1-(514)-312-6677">+93 707 845 291</a>
                         </li>
                     </ul>
                 </div>

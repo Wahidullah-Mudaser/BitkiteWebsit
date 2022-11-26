@@ -4,9 +4,9 @@
         <div class="row align-items-center">
             <div class="col-lg-6 col-md-12">
                 <div class="banner-content">
-                    <span class="top-title">World Class Cyber Security</span>
-                    <h1>Powerful Protection Easy Recovery</h1>
-                    <p>Cybersecurity is the protection  from the theft to protect of our computer systems and networks or being damaged of our hardware and software.</p>
+                    <span class="top-title">Bitkite Software Solutions and Hosting company</span>
+                    <h1>Your demands are our priority</h1>
+                    <p>Bitkite Software solutions is your trustworthy business partner. Our professional team is ready to serve you. Your idea will be treated seriously confidiential.</p>
                     <div class="banner-btn">
                         <a href="contact.html" class="default-btn">
                             <span>Contact Us</span>

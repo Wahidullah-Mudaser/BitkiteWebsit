@@ -17,7 +17,7 @@ Route::get('/artisan/{c}',function($c){
     return Artisan::call($c);
 });
 Route::view('/','contents.website.dashboard');
-Route::view('/pricing','contents.website.pricing');
+Route::view('/hosting','contents.website.hosting');
 Route::view('/services','contents.website.services');
 Route::view('/aboutus','contents.website.aboutus');
 Route::view('/contact','contents.website.contact');
